@@ -15,3 +15,11 @@ After installing all the necessary libreires and packages, you can try out the t
 The first [script](https://github.com/LeonardRanaldi/TorScraper/blob/main/scraper.py) is a basic version of the scraper where a function is implemented that takes a '.onion' link as input and writes the text in the service into a text file.
 
 The second [script](https://github.com/LeonardRanaldi/TorScraper/blob/main/torVerScraper.py) extends the functions of the first script and provides new functions to extract new '.onion' links.
+
+
+## Note!
+
+If you would like to consult `BERT in the Dark Web needs KERMIT eyes` . 
+
+
+Please write to my email and I will send you the paper and the code. (after submission is in anonymity period)

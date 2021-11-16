@@ -19,7 +19,7 @@ The second [script](https://github.com/LeonardRanaldi/TorScraper/blob/main/torVe
 
 ## Note!
 
-If you would like to consult `BERT in the Dark Web needs KERMIT eyes` . 
+If you would like to consult `BERT in the Dark Web needs KERMIT eyes` . (as written in my CV)
 
 
 Please write to my email and I will send you the paper and the code. (after submission is in anonymity period)

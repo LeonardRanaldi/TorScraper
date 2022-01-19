@@ -17,8 +17,22 @@ The first [script](https://github.com/LeonardRanaldi/TorScraper/blob/main/scrape
 The second [script](https://github.com/LeonardRanaldi/TorScraper/blob/main/torVerScraper.py) extends the functions of the first script and provides new functions to extract new '.onion' links.
 
 
+
+# Citation
+If you use this code, please cite the paper:
+```
+@misc{ranaldi2022dark,
+      title={The Dark Side of the Language: Pre-trained Transformers in the DarkNet}, 
+      author={Leonardo Ranaldi and Aria Nourbakhsh and Arianna Patrizi and Elena Sofia Ruzzetti and Dario Onorati and Francesca Fallucchi Fabio Massimo Zanzotto},
+      year={2022},
+      eprint={2201.05613},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
 ## Note!
 
 If you would like to consult `BERT in the Dark Web needs KERMIT eyes` . (as written in my CV)
-
 

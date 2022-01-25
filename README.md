@@ -28,7 +28,7 @@ If you use this code, please cite the paper:
 ```
 @misc{ranaldi2022dark,
       title={The Dark Side of the Language: Pre-trained Transformers in the DarkNet}, 
-      author={Leonardo Ranaldi and Aria Nourbakhsh and Arianna Patrizi and Elena Sofia Ruzzetti and Dario Onorati and Francesca Fallucchi Fabio Massimo Zanzotto},
+      author={Leonardo Ranaldi and Aria Nourbakhsh and Arianna Patrizi and Elena Sofia Ruzzetti and Dario Onorati and Francesca Fallucchi and Fabio Massimo Zanzotto},
       year={2022},
       eprint={2201.05613},
       archivePrefix={arXiv},
